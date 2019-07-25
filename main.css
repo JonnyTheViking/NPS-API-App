@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  #submit-button:hover {
+    cursor: pointer;
+  }
+  
+  .hidden {
+    display: none;
+  }
